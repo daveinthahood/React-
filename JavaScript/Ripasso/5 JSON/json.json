@@ -1,0 +1,22 @@
+{
+  "nome": "Quarta A",
+  "scuola": "Miao",
+  "insegnanti": [
+    {
+      "nome": "Mario",
+      "cognome": "Blue",
+      "materie": ["storia", "italiano", "geografia"]
+    },
+    {
+      "nome": "Mario",
+      "cognome": "Rossi",
+      "materie": ["matematia", "italiano", "geografia"]
+    }
+  ],
+  "alunni": [
+    {
+      "nome": "marco",
+      "cognome": "ciao"
+    }
+  ]
+}
